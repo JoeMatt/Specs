@@ -17,6 +17,7 @@
   },
   "preserve_paths": "GoogleMobileAdsSdkiOS-7.2.2",
   "vendored_frameworks": "GoogleMobileAdsSdkiOS-7.2.2/GoogleMobileAds.framework",
+  "public_header_files": "GoogleMobileAdsSdkiOS-7.2.2/GoogleMobileAds.framework/Versions/A/Headers/*.h"
   "weak_frameworks": "AdSupport",
   "frameworks": [
     "AudioToolbox",
